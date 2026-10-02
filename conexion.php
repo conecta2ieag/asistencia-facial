@@ -1,8 +1,8 @@
 <?php
 
-$servidor = "localhost";
-$usuario = "root";
-$password = "";
+$servidor = "sql113.infinityfree.com";
+$usuario = "if0_43070726";
+$password = "suVOo0L5NxDUD";
 $base_datos = "asistencia_facial";
 
 $conexion = new mysqli(
